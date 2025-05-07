@@ -22,5 +22,7 @@ A formação tem como objetivo capacitar profissionais para atuar como Analistas
 
 ## 📁 Estrutura do Repositório
 
-Cada projeto será organizado em uma pasta separada, contendo os arquivos do relatório (`.pbix`), eventuais bases de dados, capturas de tela dos dashboards e uma breve descrição do desafio abordado.
+Cada projeto será organizado em uma pasta separada, contendo os arquivos do relatório (`.pbix` OU '.pdf'), base de dados e eventuais complementos.
+
+- **Desafio de Projeto 1** : É o primeiro projeto do curso, utilizei uma base de dados fornecida pelo Power BI chamada "financials".<p> Esse primeiro projeto é bem inicial, portanto utilizei diferentes tipos de gráficos como mapa, histograma, pizza e gráfico de área. <p>Lembrando que os dados são fictícios. logo. pode não ser possível tirar algums insight, pois há uma inconsistência nos dados.
 
