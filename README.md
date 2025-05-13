@@ -26,3 +26,5 @@ Cada projeto será organizado em uma pasta separada, contendo os arquivos do rel
 
 - **Desafio de Projeto 1** : É o primeiro projeto do curso, utilizei uma base de dados fornecida pelo Power BI chamada "financials".<p> Esse primeiro projeto é bem inicial, portanto utilizei diferentes tipos de gráficos como mapa, histograma, pizza e gráfico de área. <p>Lembrando que os dados são fictícios. logo. pode não ser possível tirar algums insight, pois há uma inconsistência nos dados.
 
+
+- **Desafio de Projeto 2** : Este relatório foi elaborado com base na sample financials do Power BI. Os arquivos de dados estão <p> disponíveis juntamente com o desafio. Este desafio tem botões de navegação entre as páginas, segmentadores e botões <p>com imagem associado e indicadores associados a botões para selecionar diferentes visuais sobre o mesmo assunto.
